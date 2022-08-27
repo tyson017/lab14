@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1661605234 source:d:\c programming\lab14\cc.c
+1661610260 source:d:\c programming\lab14\cc.c
 
-1661605514 source:d:\c programming\lab14\main.c
+1661610260 source:d:\c programming\lab14\main.c
 	<stdio.h>
 	<stdlib.h>
+	"Git_test.h"
+
+1661610102 d:\c programming\lab14\git_test.h
 
